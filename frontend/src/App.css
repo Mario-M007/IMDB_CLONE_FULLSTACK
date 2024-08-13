@@ -1,0 +1,11 @@
+body {
+  background-color: rgba(33, 37, 41, 1) !important;
+}
+
+.card-container {
+  transition: transform 0.3s ease;
+}
+
+.card-container:hover {
+  transform: scale(1.05);
+}
